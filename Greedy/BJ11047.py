@@ -11,4 +11,4 @@ for coin in coin_value[::-1]:
     result += K // coin
     K %= coin  
 
-print(result)
+print(result) 
