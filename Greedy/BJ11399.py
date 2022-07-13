@@ -6,4 +6,4 @@ result = 0
 for i in range(N):
     result += T[i]*(N-i)
 
-print(result)
+print(result) 
